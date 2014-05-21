@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1400681767 source:/home/PORTOALEGRE/10067320/flaming-octo-adventure/Vetores/main.c
+	<stdio.h>
+	<stdlib.h>
+
